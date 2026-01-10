@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Sudhanshu Kumar  <br>💻 Frontend Developer | MERN Stack Learner  <br>⚡ Passionate about building responsive and user-friendly web applications  <br>🔹 Also familiar with: Python & Java  <br>🚀 Currently working on full-stack projects to sharpen my skills  <br>📚 Lifelong learner exploring modern web technologies  <br>  
+# Hi, I'm Sudhanshu Kumar  
+💻 Frontend Developer | MERN Stack Learner  <br>⚡ Passionate about building responsive and user-friendly web applications  <br>🔹 Also familiar with: Python & Java  <br>🚀 Currently working on full-stack projects to sharpen my skills  <br>📚 Lifelong learner exploring modern web technologies  <br>  
 
 
 ## 🌐 Socials:
